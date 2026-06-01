@@ -81,9 +81,9 @@ My focus is creating fast, accessible, and maintainable applications using moder
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocvargas&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocvargas&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -93,7 +93,7 @@ My focus is creating fast, accessible, and maintainable applications using moder
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diegocvargas&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -118,24 +118,22 @@ Creating exceptional user experiences through clean architecture, performance-fi
 
 # 📡 Connect With Me
 
-<p align="left">
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_PROFILE">
+    <img src="https://cdn.simpleicons.org/linkedin" width="40" height="40" />
+  </a>
 
-<a href="YOUR_LINKEDIN">
-LinkedIn
-</a>
+  <a href="https://www.workana.com/freelancer/YOUR_PROFILE">
+    <img src="https://cdn.simpleicons.org/workana" width="40" height="40" />
+  </a>
 
-|
+  <a href="mailto:your@email.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="40" height="40" />
+  </a>
 
-<a href="YOUR_PORTFOLIO">
-Portfolio
-</a>
-
-|
-
-<a href="YOUR_WORKANA">
-Workana
-</a>
-
+  <a href="https://YOUR_PORTFOLIO.com">
+    <img src="https://cdn.simpleicons.org/googlechrome" width="40" height="40" />
+  </a>
 </p>
 
 ---
