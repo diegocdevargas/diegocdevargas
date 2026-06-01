@@ -93,10 +93,7 @@ const diego = {
 # 📊 GitHub Command Center
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=diegocdevargas&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocdevargas&layout=compact&theme=tokyonight&hide_border=true)
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocdevargas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="180"
