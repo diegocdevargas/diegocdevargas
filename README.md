@@ -14,187 +14,129 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
 
-<img width="100%" src="./assets/banner-space.png">
+<div align="center">
 
 # 🚀 Diego Vargas
 
 ### Senior Front-End Engineer
 
-Building enterprise-grade web applications since 2013.
+Building scalable, high-performance web experiences for enterprise products and digital platforms.
 
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
-  <a href="YOUR_PORTFOLIO_URL">
-    🌐
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=Front-End+Engineer;React+%7C+TypeScript+%7C+Next.js;11%2B+Years+of+Experience;Performance+Optimization+Specialist;Building+Modern+Digital+Experiences" />
 
 </div>
 
 ---
 
-## 👨‍🚀 About Me
+# 👨‍🚀 About Me
 
-Hi there 👋
+I'm a Front-End Engineer with **11+ years of experience** building scalable web applications, enterprise platforms, and digital experiences.
 
-I'm Diego, a Senior Front-End Engineer with 11+ years of experience building scalable digital products and enterprise applications.
+I've contributed to projects for:
 
-I've worked on projects for companies such as:
+- Cargill
+- Xiaomi Brasil
+- Bradesco
+- Santander
+- Next Digital Bank
 
-* Cargill
-* Xiaomi Brasil
-* Bradesco
-* Santander
-* Next Digital Bank
-
-My passion is transforming complex business requirements into fast, accessible and beautiful user experiences.
+My focus is creating fast, accessible, and maintainable applications using modern technologies.
 
 ---
 
-# 🌌 Current Mission
+# ⚡ Tech Stack
 
-```ts
-const diego = {
-  role: "Senior Front-End Engineer",
-  location: "Brazil 🇧🇷",
-  stack: [
-    "React",
-    "TypeScript",
-    "Next.js",
-    "JavaScript",
-    "GraphQL",
-    "Node.js"
-  ],
-  passion: [
-    "Performance",
-    "Architecture",
-    "UX",
-    "Animations",
-    "AI"
-  ]
-}
-```
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
+![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql)
+![SASS](https://img.shields.io/badge/SASS-0D1117?style=for-the-badge&logo=sass)
+![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest)
 
 ---
 
-# 📊 GitHub Command Center
+# 🌌 Professional Highlights
 
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocdevargas&layout=compact&theme=tokyonight&hide_border=true)
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocdevargas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-  />
-</p>
+🚀 11+ years of Front-End Development
 
-<br>
+🚀 Enterprise experience in Banking, Fintech and Retail
+
+🚀 Large-scale applications serving thousands of users
+
+🚀 Advanced React & TypeScript architecture
+
+🚀 Performance optimization and Core Web Vitals specialist
+
+🚀 API integrations and modern front-end ecosystems
+
+🚀 Interactive experiences using SVG Animation and GSAP
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diegocdevargas&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIEGOCDEVARGAS&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOCDEVARGAS&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# ⚡ Technology Arsenal
+# 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,nodejs,graphql,sass,jest,vscode,git,github,figma" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGOCDEVARGAS&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🛰️ Current Focus
+
+- Building modern React applications
+- Front-End Architecture
+- Performance Engineering
+- TypeScript Ecosystem
+- Design Systems
+- AI-powered web experiences
+
+---
+
+# 🏆 Career Mission
+
+Creating exceptional user experiences through clean architecture, performance-first development, and scalable front-end solutions.
+
+---
+
+# 📡 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN">
+LinkedIn
+</a>
+
+|
+
+<a href="YOUR_PORTFOLIO">
+Portfolio
+</a>
+
+|
+
+<a href="YOUR_WORKANA">
+Workana
+</a>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-### 🛰 Front-End Architecture
-
-Scalable React + TypeScript architecture built for enterprise applications.
-
----
-
-### 🌍 Next.js Production Platform
-
-SEO-focused, high-performance application demonstrating SSR, SSG and modern best practices.
-
----
-
-### 🎨 Design System
-
-Reusable component library with accessibility, documentation and design tokens.
-
----
-
-### 🤖 AI Dashboard
-
-Modern AI-powered analytics platform built with React and TypeScript.
-
----
-
-### ✨ GSAP Showcase
-
-Advanced SVG and animation experiments focused on user engagement and performance.
-
----
-
-# 🏆 Experience Highlights
-
-* 11+ years of Front-End Development
-* Banking & Fintech Industry Experience
-* Enterprise-Scale Applications
-* Performance Optimization Specialist
-* Design Systems & Component Libraries
-* Accessibility Advocate
-* Modern React Ecosystem
-
----
-
-# 📡 Connect
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  LinkedIn
-</a>
-
-•
-
-<a href="YOUR_WORKANA_URL">
-  Workana
-</a>
-
-•
-
-<a href="YOUR_PORTFOLIO_URL">
-  Portfolio
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer" />
-
-### 🌠 Exploring new technologies and building the future of the web.
-
-</div>
 
 ---
 
