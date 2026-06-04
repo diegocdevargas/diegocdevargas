@@ -80,11 +80,6 @@ My focus is creating fast, accessible, and maintainable applications using moder
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIEGOCDEVARGAS&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOCDEVARGAS&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
@@ -92,9 +87,6 @@ My focus is creating fast, accessible, and maintainable applications using moder
 # 🔥 Contribution Streak
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGOCDEVARGAS&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
@@ -117,27 +109,6 @@ Creating exceptional user experiences through clean architecture, performance-fi
 ---
 
 # 📡 Connect With Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-LinkedIn
-</a>
-
-|
-
-<a href="YOUR_PORTFOLIO">
-Portfolio
-</a>
-
-|
-
-<a href="YOUR_WORKANA">
-Workana
-</a>
-
-</p>
-
 ---
 
 <div align="center">
